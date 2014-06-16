@@ -1,18 +1,13 @@
 {
 	"name": "sheillendra/jquery-ui",
-	"description": "jQuery UI",
-	"keywords": ["jquery-ui"],
-	"type": "library",
+	"description": "jQuery JavaScript Library",
+	"homepage": "http://jquery.com",
 	"license": "MIT",
-	"authors": [
-		{
-			"name": "jQuery Tim",
-			"email": "paul.bakaus@gmail.com"
-		}
-	],
-	"autoload": {
-		"psr-4": {
-			"sheillendra\\jquery-ui\\": ""
-		}
+	"support": {
+		"irc": "irc://irc.freenode.org/jquery",
+		"issues": "http://bugs.jquery.com",
+		"forum": "http://forum.jquery.com",
+		"wiki": "http://docs.jquery.com/",
+		"source": "https://github.com/jquery/jquery"
 	}
 }
